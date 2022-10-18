@@ -1,1 +1,1 @@
-# tipCalculatorJS
+# Write a JavaScript function to determine tip when entering one of seven adjectives to describe service and the total cost of the bill as the two parameters to determine the amount of tip that should be left for the server.
